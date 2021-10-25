@@ -1,3 +1,3 @@
 
-##Personal Curriculum Vitae for future publication 
-##Under Development
+## Personal Curriculum Vitae for future publication 
+## Under Development
