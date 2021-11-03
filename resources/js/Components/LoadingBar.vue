@@ -36,6 +36,7 @@ props:{
       if(this.percentage < this.limit)
         this.percentage += .1;
       else
+
         clearInterval(intVal);
     }, 10);
   }
