@@ -23,8 +23,10 @@
     background-color: #041731;
 
 }
-
+/* Works on Chrome, Edge, and Safari */
 *::-webkit-scrollbar-thumb {
+    
+   
     background-color: #3B82F6;
     border-radius: 5px;
     border: 3px solid #3B82F6;
