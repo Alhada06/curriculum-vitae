@@ -9,7 +9,7 @@ class Education extends Model
 {
     use HasFactory;
 
-//test
+//test1
 
 }
 
