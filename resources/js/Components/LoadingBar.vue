@@ -8,7 +8,7 @@
   <div class="pl-2  ">{{ percent }}%</div>
 </div>
 
-
+<div></div>
 
 
 </template>
